@@ -1,3 +1,3 @@
 # Things-to-remember
 
-This repository consists of some of the notes I put together for pre exam preparations.
+This repository consists of some of the notes I put together to look back on in future.
